@@ -6,36 +6,9 @@
     <description>Recent content on Амбарчик</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2016 20:05:58 +0300</lastBuildDate>
-    <atom:link href="http://ambarchik.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>first</title>
-      <link>http://ambarchik.com/post/first/</link>
-      <pubDate>Sun, 31 Jan 2016 20:05:58 +0300</pubDate>
-      
-      <guid>http://ambarchik.com/post/first/</guid>
-      <description>
 
-&lt;h2 id=&#34;first-post-headline:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;First post headline&lt;/h2&gt;
+	<atom:link href="http://ambarchik.com/index.xml" rel="self" type="application/rss+xml" />
 
-&lt;p&gt;first post&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://ambarchik.com/about/</link>
-      <pubDate>Sun, 31 Jan 2016 20:04:59 +0300</pubDate>
-      
-      <guid>http://ambarchik.com/about/</guid>
-      <description>
 
-&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
-
-&lt;p&gt;Some content&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
